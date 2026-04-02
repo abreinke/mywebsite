@@ -2,13 +2,8 @@
 /* CSS Document */
 
 body {
-	background-color: white;
 	font-family: arial;
-}
-
-h1 {
-	text-align: center;
-	font-size: 34px;
+	background-color: white;
 }
 
 .flex-container {
@@ -40,9 +35,17 @@ h1 {
 	text-align: left;
 }
 
+h1 {
+	font-size: 24px;
+	color: black;	
+	text-align: center;
+	text-transform: uppercase;
+}
+
 h2 {
 	font-size: 20px;
 	color: white;
+	text-align: center;
 }
 
 .overlay-content {
@@ -80,13 +83,6 @@ h2 {
   top: 0;
   right: 35px;
   }
-}
-
-h1 {
-	text-align: right;
-	font-family: arial;
-	color: white;
-	font-size: 30px;
 }
 
 ul {
